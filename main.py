@@ -48,7 +48,7 @@ formatted_time = (
     .replace(":", "_")
 )
 
-readings_csv = f"C:/Users/ggord/Desktop/DOKING/{string}{formatted_time}.csv"
+readings_csv = f"./{string}{formatted_time}.csv"
 
 
 while not exit_flag:
