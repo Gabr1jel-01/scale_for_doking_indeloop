@@ -1,4 +1,4 @@
-# DOK-ING Indeloop Dynamic Scale Project Overview
+# DOK-ING Indeloop Dynamic Scale
 
 ## Project overview
 
