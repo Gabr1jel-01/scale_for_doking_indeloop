@@ -93,7 +93,7 @@ my_list.append(formatted_reading)
 print(formatted_reading)
 ```
 
-The readings which are appended to the list are stored in a csv file.
+The readings which are appended to the list are stored in a CSV file.
 
 ```python
 .
